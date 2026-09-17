@@ -1,0 +1,49 @@
+﻿# OS & system files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Node (if ever used)
+node_modules/
+npm-debug.log
+
+# Python (if ever used)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
