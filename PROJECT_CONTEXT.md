@@ -1,5 +1,5 @@
 # PROJECT_CONTEXT.md
-## TVM Calculator — MIT Vishwaprayag University, Solapur
+## TVM Calculator â€” MIT Vishwaprayag University, Solapur
 ### BS3210: Finance for Engineers, Designers and Professionals
 ### Assignment 1: Time Value of Money (TVM) Calculator Application
 

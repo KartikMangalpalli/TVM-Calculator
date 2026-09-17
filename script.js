@@ -1,4 +1,4 @@
-﻿/**
+/**
  * script.js — TVM Calculator Application
  * BS3210: Finance for Engineers, Designers and Professionals
  * MIT Vishwaprayag University, Solapur

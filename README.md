@@ -1,4 +1,4 @@
-﻿# 📈 TVM Calculator — Time Value of Money
+# 📈 TVM Calculator — Time Value of Money
 
 > **BS3210: Finance for Engineers, Designers and Professionals**  
 > MIT Vishwaprayag University, Solapur — Assignment 1
